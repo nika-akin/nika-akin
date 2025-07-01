@@ -1,6 +1,7 @@
 # Hello there 👋 
 
-I'm Veronika Batzdorfer a postdoctoral researcher working at [KIT](https://sociology.itz.kit.edu/21_138.php).  
+I'm Veronika Batzdorfer a postdoctoral researcher working at [KIT](https://sociology.itz.kit.edu/21_138.php) working in the EU-Project: **SoMe4Dem**.
+
 I build, break, and analyze things in the world of computational social science.
 
 🕸️ Check out my [website](https://www.batzdorfer.org/)
