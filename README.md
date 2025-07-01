@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello there 👋 
 
-<!--
-**nika-akin/nika-akin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Veronika Batzdorfer a postdoctoral researcher working at [KIT](https://sociology.itz.kit.edu/21_138.php).  
+I build, break, and analyze things in the world of computational social science.
 
-Here are some ideas to get you started:
+🕸️ Check out my [website](https://www.batzdorfer.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Selected Research
+
+- [a. Conspiracy theories on Twitter](https://link.springer.com/article/10.1007/s41060-021-00298-6)  
+- [b. Conspiracy Narratives on Voat](https://dl.acm.org/doi/pdf/10.1145/3614419.3644019)  
+- [c. Publishing combined web tracking and survey data](https://osf.io/preprints/osf/y4v8z_v1)
+
+---
+
+Feel free to reach out!
